@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Django
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Ai and programming
-- 😃 Fun fact: There are many more projects in private repo
-My main GitHub id got blocked, which had around 20-30 projects (majority were private) and i wasn't able to retrive any of those, so recreating all with collaboration with my business partner and close friend
+- 😃 Fun fact: There are many more projects in private repo.
+- My main GitHub id got blocked, which had around 20-30 projects (majority were private) and i wasn't able to retrive any of those, so recreating all with collaboration with my business partner and close friend
 
 
 ## 🌐 Socials:
