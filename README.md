@@ -4,8 +4,6 @@ Full-stack developer building web applications, developer tooling, and Python pa
 
 Currently learning Django. Currently working on [GUN101](https://github.com/dialga-cmd/GUN101).
 
-[![Profile views](https://komarev.com/ghpvc/?username=dialga-cmd&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dialga-cmd)
-
 ## Links
 
 | | |
