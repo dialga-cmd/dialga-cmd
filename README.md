@@ -2,7 +2,7 @@
 
 Full-stack developer building web applications, developer tooling, and Python packages.
 
-Currently learning Django. Currently working on [GUN101](https://github.com/dialga-cmd/GUN101).
+Currently learning Django. Currently working on [GUN101](https://github.com/dialga-cmd/GUN101) and [LucidGrasp](https://github.com/dialga-cmd/lucidgrasp).
 
 ## Links
 
